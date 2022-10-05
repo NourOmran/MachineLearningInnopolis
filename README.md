@@ -1,6 +1,15 @@
 # MachineLearningInnopolis
 A machine learning  repository for machine learning tasks ( Masters )
 
+## To run the pytohn file 
+
+```bash
+python3 on_model_to_train_all.py
+
+```
+
+
+
 ## Data_pre
 ### Takes The DataFrame and the mood of scaling the mode of scaling is StandardScaler(),MinMaxScaler(),RobustScaler()] or just pass no scaling 
 ```python
