@@ -1,10 +1,12 @@
 # MachineLearningInnopolis
 A machine learning  repository for machine learning tasks ( Masters )
 
-## To run the pytohn file 
+## To run the python main file 
 
-```bash
+```bash 
+
 python3 on_model_to_train_all.py
+
 
 ```
 
